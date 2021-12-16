@@ -1,0 +1,6 @@
+Contrato de aluguel
+Inicio: 16/12/2021 17:10:55
+Fim: 26/12/2021 17:10:55
+Valor total: 10225
+Veiculo: Nome 207 - Marca Peugeot - Placa ICY7912 - Documento 22737128713 - Ano 2007
+Cliente: Nome adawd - Idade 45 - CPF: 1651651651

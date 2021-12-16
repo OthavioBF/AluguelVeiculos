@@ -1,0 +1,5 @@
+Contrato de aluguel
+Inicio: 12/16/2021 11:11:59 AM
+Fim: 12/26/2021 11:11:59 AM
+Veiculo: Nome Civic - Marca Honda - Placa KJF7639 - Documento 10084170686 - Ano 2002
+Cliente: Nome Fernando - Idade 38 - CPF: 123123123
